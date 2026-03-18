@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://jayeshpansheriya.github.io/sitemap.xml
+Host: https://jayeshpansheriya.github.io
